@@ -9,4 +9,6 @@ I downloaded [this dataset](https://www.kaggle.com/competitions/digit-recognizer
 $ kaggle competitions download -c digit-recognizer
 ```
 
+Here is an image of all the command run:
+
 ![img](commands_screenshot.png)
